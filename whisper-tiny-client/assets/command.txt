@@ -1,0 +1,16 @@
+向前走_xiangqianzou
+往后退_wanghoutui
+左转_zuozhuan
+右转_youzhuan
+回到初始位置_huidaochushiweizhi
+更换抓握模式_genghuanzhuawomoshi
+关闭菜单_guanbicaidan
+唤出菜单_huanchucaidan
+大一点_dayidian
+小一点_xiaoyidian
+换一个动作_huanyigedongzuo
+开始解说_kaishijieshuo
+让我们作一个实验吧_rangwomenzuoyigeshiyanba
+去掉实验设备_qudiaoshiyanshebei
+请播放一段视频_qingbofangyiduanshipin
+结束视频播放_jieshushipinbofang

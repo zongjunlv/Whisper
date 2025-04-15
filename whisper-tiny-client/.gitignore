@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.hypothesis/
+log/
+
+# 忽略打包的程序文件
+build/
+dist/
+*.spec

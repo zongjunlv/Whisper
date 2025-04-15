@@ -1,0 +1,9 @@
+temp: 20
+CHUNK: 1024
+CHANNELS: 1
+RATE: 16000
+mindb: 900
+delayTime: 0.4
+max_tokens: 500
+temperature: 0.3
+top_p: 0.8
