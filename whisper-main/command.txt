@@ -1,0 +1,5 @@
+向前走_xiangqianzou
+往后退_wanghoutui
+左转_zuozhuan
+右转_youzhuan
+回到初始位置_huidaochushiweizhi
