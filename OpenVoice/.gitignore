@@ -1,0 +1,27 @@
+__pycache__/
+.ipynb_checkpoints/
+processed
+outputs
+outputs_v2
+checkpoints
+checkpoints_v2
+trash
+examples*
+.env
+build
+*.egg-info/
+*.zip
+text_file/
+.vscode/
+.hypothesis/*
+
+# pyinstller cache
+*.spec
+dist/
+build/
+# model weights cache
+.cache/
+.locks/
+models--bert-base-multilingual-uncased/
+log/
+output_audio/
